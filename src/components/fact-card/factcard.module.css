@@ -1,0 +1,11 @@
+.factCard {
+	background: #7e6643;
+	padding: 20px;
+	max-width: 100%;
+	height: 150px;
+	overflow-y: auto;
+}
+
+.factCard h2 {
+	margin: 0;
+}
